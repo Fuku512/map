@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J84",
+  "range": "'スポットデータ'!A1:J83",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -15,25 +15,133 @@
       "公式サイト"
     ],
     [
-      "2022/05/11 14:46:34",
-      "オフィス",
-      "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
-      "35.730091",
-      "139.73754",
-      "株式会社Geolonia",
-      "株式会社Geoloniaの東京オフィスです",
       "",
-      "geoloniamap",
-      "https://geolonia.com"
+      "東海マツダ",
+      "https://fuku512.github.io/map/mazda.jpg",
+      "35.182714",
+      "136.89234",
+      "城西店",
+      "東海マツダ城西店"
     ],
     [
       "",
       "東海マツダ",
-      "https://github.com/Fuku512/map/blob/master/public/mazda-96837.jpg",
-      "35.182714",
-      "136.89234",
-      "東海マツダ城西店",
-      "東海マツダ城西店"
+      "https://fuku512.github.io/map/mazda.jpg",
+      "35.133264",
+      "136.918664",
+      "雁道店",
+      "東海マツダ雁道店"
+    ],
+    [
+      "",
+      "東海マツダ",
+      "https://fuku512.github.io/map/mazda.jpg",
+      "35.175088",
+      "136.873213",
+      "中村店",
+      "東海マツダ中村店"
+    ],
+    [
+      "",
+      "東海マツダ",
+      "https://fuku512.github.io/map/mazda.jpg",
+      "35.146691",
+      "136.852152",
+      "中川八田店",
+      "東海マツダ中川八田店"
+    ],
+    [
+      "",
+      "東海マツダ",
+      "https://fuku512.github.io/map/mazda.jpg",
+      "35.124729",
+      "136.870797",
+      "昭和橋店",
+      "東海マツダ昭和橋店"
+    ],
+    [
+      "",
+      "東海マツダ",
+      "https://fuku512.github.io/map/mazda.jpg",
+      "35.082148",
+      "136.937714",
+      "大慶橋店",
+      "東海マツダ大慶橋店"
+    ],
+    [
+      "",
+      "東海マツダ",
+      "https://fuku512.github.io/map/mazda.jpg",
+      "35.168685",
+      "137.000156",
+      "一社店",
+      "東海マツダ一社店"
+    ],
+    [
+      "",
+      "東海マツダ",
+      "https://fuku512.github.io/map/mazda.jpg",
+      "35.122472",
+      "136.966655",
+      "島田橋店",
+      "東海マツダ島田橋店"
+    ],
+    [
+      "",
+      "東海マツダ",
+      "https://fuku512.github.io/map/mazda.jpg",
+      "35.091065",
+      "137.001952"
+    ],
+    [
+      "",
+      "東海マツダ",
+      "https://fuku512.github.io/map/mazda.jpg"
+    ],
+    [
+      "",
+      "東海マツダ",
+      "https://fuku512.github.io/map/mazda.jpg"
+    ],
+    [
+      "",
+      "東海マツダ",
+      "https://fuku512.github.io/map/mazda.jpg"
+    ],
+    [
+      "",
+      "東海マツダ",
+      "https://fuku512.github.io/map/mazda.jpg"
+    ],
+    [
+      "",
+      "東海マツダ",
+      "https://fuku512.github.io/map/mazda.jpg"
+    ],
+    [
+      "",
+      "東海マツダ",
+      "https://fuku512.github.io/map/mazda.jpg"
+    ],
+    [
+      "",
+      "東海マツダ",
+      "https://fuku512.github.io/map/mazda.jpg"
+    ],
+    [
+      "",
+      "東海マツダ",
+      "https://fuku512.github.io/map/mazda.jpg"
+    ],
+    [
+      "",
+      "東海マツダ",
+      "https://fuku512.github.io/map/mazda.jpg"
+    ],
+    [
+      "",
+      "東海マツダ",
+      "https://fuku512.github.io/map/mazda.jpg"
     ]
   ]
 }
